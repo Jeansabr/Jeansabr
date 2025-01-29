@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean
 - 👀 I’m interested in AI and backend
-- 🌱 I’m currently learning Javascript and Node JS
+- 🌱 I’m currently learning Javascript, Node JS, AI, and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Linkedin
 - 😄 Pronouns: she/her
