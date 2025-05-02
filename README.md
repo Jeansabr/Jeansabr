@@ -8,12 +8,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I lovee cats -->
 
+![hi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnIxMmxhOXZ2MnZoanM2OXhzejJuMjZ0dGdjeWttOTB2c3RkOXlwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Jean Sabrina</h1>
 <h3 align="center">A passionate computer science student</h3>
-
-<div align="center">
-![hi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnIxMmxhOXZ2MnZoanM2OXhzejJuMjZ0dGdjeWttOTB2c3RkOXlwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
