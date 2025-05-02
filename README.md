@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Jean Sabrina</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeansabr" alt="jeansabr" /></a> </p>
+[!hi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI3NDJnNTBpaXRvbjQ1djJxbzkwM2xjazRjdndtOTdwMDEwc2p3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
